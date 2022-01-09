@@ -1,5 +1,5 @@
 play :-
-writeln("Try yourself with 23 matches!"),
+writeln("Try yourself with 23 matches!"), nl,
 writeln("Wanna start first? (1 - yes, 0 - no)"),
 read(First),
 game(23, First), !.
