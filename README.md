@@ -18,7 +18,8 @@ The most classic game ever.
 
 ## Setup
 
-1. Choose a game and download the file.
-2. Run choosen file [here](https://swish.swi-prolog.org/).
-3. Type `play` into the terminal and run.
-4. Enjoy!
+1. Choose a game and copy the code.
+2. Paste copied code [here](https://swish.swi-prolog.org/).
+3. Type `play` into the terminal.
+4. Press Run.
+5. Enjoy!
