@@ -21,5 +21,5 @@ The most classic game ever.
 1. Choose a game and copy the code.
 2. Paste copied code [here](https://swish.swi-prolog.org/).
 3. Type `play` into the terminal.
-4. Press Run.
+4. Press **Run**.
 5. Enjoy!
