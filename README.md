@@ -11,6 +11,8 @@ The one who is forced to pick up the last match is considered the loser.
 **Tic-Tac-Toe**
 
 The most classic game ever.    
+The first one to line up 3 of their pieces vertically, horizontally or diagonally wins.    
+The first move is made by the player placing crosses.
 
 ## Tools
 
