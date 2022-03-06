@@ -62,7 +62,7 @@ write([A,B,C]), nl, write([D,E,F]), nl,
 write([G,H,I]), nl, nl.
 
 playfrom(Board) :- win(Board, x), nl, writeln("Congratulations! :)").
-playfrom(Board) :- win(Board, o), nl, writeln("Game over! You took the last match! :(").
+playfrom(Board) :- win(Board, o), nl, writeln("Game over! :(").
 playfrom(Board) :- read(N),
 xmove(Board, N, Newboard), 
 table(Newboard),
