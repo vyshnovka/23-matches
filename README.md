@@ -15,7 +15,7 @@ The first one to place three of their marks vertically, horizontally or diagonal
 **Adventure**
 
 Let's call it interactive fiction.    
-Simply choose answers and move forward through the story
+Simply choose answers and move forward through the story.
 
 ## Tools
 
