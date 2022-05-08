@@ -1,6 +1,7 @@
 # Tiny games on Prolog
 
-This repository contains some classic (kinda) board games implemented in Prolog.
+This repository contains some classic (kinda) board games implemented in Prolog.    
+Unless, of course, you can say "some" about "two".
 
 **Tic-Tac-Toe**
     
@@ -11,11 +12,6 @@ The first one to place three of their marks vertically, horizontally or diagonal
 
 The essence of this game consists in removing things off the table.    
 In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.
-
-**Adventure**
-
-Let's call it interactive fiction.    
-Simply choose answers and move forward through the story.
 
 ## Tools
 
