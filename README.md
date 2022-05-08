@@ -2,15 +2,15 @@
 
 This repository contains some classic (kinda) board games implemented in Prolog.
 
-**23 Matches**
-
-The essence of this game consists in removing things off the table.    
-In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.
-
 **Tic-Tac-Toe**
     
 For those who hear about this legendary game for the first time...    
 The first one to place three of their marks vertically, horizontally or diagonally wins. Simple as that.   
+
+**23 Matches**
+
+The essence of this game consists in removing things off the table.    
+In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.
 
 **Adventure**
 
