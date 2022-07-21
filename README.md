@@ -1,12 +1,13 @@
-# Tiny stuff on Prolog
+# Tiny game on Prolog
 
-This repository contains some tiny (kinda) games, auto solvers of logical problems and tasks just for training implemented in Prolog.    
-Unless, of course, you can say "some" about "three".
+This repository contains a tiny (kinda) game implemented in Prolog just for training.    
+Unless, of course, you can say "a game" about "an algorithm".
 
 **23 Matches**
 
 The essence of this game consists in removing things off the table.    
-In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.
+In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.    
+The algorithm is designed in such a way that there is only one single combination of moves that allows you to beat the computer.
 
 ## Tools
 
@@ -14,7 +15,7 @@ In one move, a player can pick up one, two or three matches. Whoever is forced t
 
 ## Setup
 
-1. Choose a script and copy the code.
+1. Copy the code.
 2. Paste copied code [here](https://swish.swi-prolog.org/).
 3. Type `play` into the terminal.
 4. Press **Run**.
