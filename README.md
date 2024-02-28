@@ -1,11 +1,9 @@
-# Tiny game on Prolog
+# 23 Matches
 
 This repository contains a tiny (kinda) game implemented in Prolog just for training.    
 Unless, of course, you can say "a game" about "an algorithm".
 
-**23 Matches**
-
-The essence of this game consists in removing things off the table.    
+The essence of the game consists in removing things off the table.    
 In one move, a player can pick up one, two or three matches. Whoever is forced to pick up the last match loses.    
 The algorithm is designed in such a way that there is only one single combination of moves that allows you to beat the computer.
 
